@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "Always Open Tab Next",
+  "short_name": "Tab Next",
+  "version": "1.0.0",
+  "description": "Any new tab always opens right next to the active one.",
+  "author": "Qalib Qurbanov",
+  "homepage_url": "https://github.com/qalibqurbanov/AlwaysOpenTabNext",
+  "permissions": ["tabs"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "action": {
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    },
+    "default_title": "Always Open Tab Next"
+  }
+}
