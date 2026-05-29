@@ -37,13 +37,10 @@ Zero configuration — install and forget. No data collection, no network reques
 
 ## 🚀 Installation
 
-1. Clone or download this repository
-   ```bash
-   git clone https://github.com/yourname/tab-next.git
-   ```
-2. Open Chrome and go to `chrome://extensions/`
-3. Enable **Developer mode** (toggle in the top right)
-4. Click **Load unpacked** and select the `tab-next` folder
+1. Download this repository as a ZIP and extract it.
+2. Open Chrome and type chrome://extensions/ in the address bar.
+3. Turn on Developer mode using the toggle in the top right corner.
+4. Click Load unpacked and select the extracted folder.
 
 The extension icon will appear in your toolbar immediately.
 
