@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="icons/icon128.png" width="80" />
+  <img src="src/icons/icon128.png" width="80" />
   <h1>Always Open Tab Next</h1>
   <p>A Chrome extension that always opens new tabs right next to the tab you're currently on.</p>
 
